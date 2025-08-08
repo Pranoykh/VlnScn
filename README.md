@@ -23,4 +23,4 @@ Low & Informational: 22
 
 ***Remediation Plan Overview***
 
-All the vulnerabilities are low and one Medium the details of medium vulnerability iss included in https://github.com/Pranoykh/VlnScn/blob/main/Critical.md Folder
+All the vulnerabilities are low and one Medium the details of medium vulnerability is included in https://github.com/Pranoykh/VlnScn/blob/main/Critical.md Folder
